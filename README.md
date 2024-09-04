@@ -1,17 +1,3 @@
-# Peng Yu's GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=pengyoo&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengyoo&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
-
 ## Hi there 👋
 
 * 👋 Hello, I'm Peng Yu. Software Engineer with a dash of Irish education and a sprinkle of full-stack magic.
