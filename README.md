@@ -14,8 +14,8 @@
 
 ## 🚀 Tech Stack
 ```
-Backend:     Java, Python              ███████░░░
-Frontend:    JavaScript, React         █████░░░░░
+Backend:     Java, Python, Node.js     ███████░░░
+Frontend:    React, Next.js            █████░░░░░
 Cloud:       AWS, Docker, Kubernetes   ████░░░░░░
 Exploring:   AI, Blockchain            ██░░░░░░░░
 ```
