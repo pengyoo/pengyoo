@@ -12,6 +12,8 @@
 
 * 🚀 Experienced in building scalable apps using Java, Python, React.js, and AWS.
 
+* 📸 Outside of coding, you’ll probably find me behind a camera, capturing moments through photography
+
 
 
 ## 🚀 Tech Journey
