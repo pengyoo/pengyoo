@@ -16,8 +16,6 @@
 ```
 Backend:     Java, Python              ███████░░░
 Frontend:    JavaScript, React         █████░░░░░
-Database:    SQL, NoSQL                ████░░░░░░
 Cloud:       AWS, Docker, Kubernetes   ████░░░░░░
-Tools:       Git, IDEs                 ████░░░░░░
 Exploring:   AI, Blockchain            ██░░░░░░░░
 ```
