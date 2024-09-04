@@ -1,4 +1,4 @@
-## 👋 Hi there!
+## 👋 Hi There!
 
 * 👋 Hello, I'm Peng Yu. Software Engineer with a dash of Irish education and a sprinkle of full-stack magic.
 * 👀 I'm currently fascinated by AI applications based on large language models and cloud computing.
@@ -12,7 +12,7 @@
 * 💞️ 欢迎在创新项目上合作。让我们一起把咖啡因变成代码！
 
 
-## 🚀 Tech Stack
+## 🚀 Tech Journey
 ```
 Backend:     Java, Python, Node.js     ███████░░░
 Frontend:    React, Next.js            █████░░░░░
