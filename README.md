@@ -1,15 +1,12 @@
 ## 👋 Hi There!
 
-* 👋 Hello, I'm Peng Yu. Software Engineer with a dash of Irish education and a sprinkle of full-stack magic.
-* 👀 I'm currently fascinated by AI applications based on large language models and cloud computing.
-* 🌱 I'm pursuing a Master's in Cloud Computing at the National College of Ireland.
-* 💞️ Open to collaborations on innovative projects. Let's turn caffeine into code!
-<br />
+💻 A software engineer with a strong foundation in full-stack development, DevOps, and cloud computing. I love tackling complex problems with clean, efficient code.
+🎓 Currently pursuing a Master’s in Cloud Computing at the National College of Ireland, with graduation on the horizon in January 2025.
+🚀 Experienced in building everything from AI-powered recruitment platforms to decentralized web3 apps. My go-to tech stack includes Java, Python, React.js, and AWS, but I’m always eager to explore new tools.
+💡 Passionate about bringing innovative ideas to life. Whether it's improving user experiences or building scalable, reliable systems, I'm all in.
+📸 Outside of coding, you’ll probably find me behind a camera, capturing moments through photography and video production.
 
-* 👋 你好，我是Peng Yu。一名软件工程师，有爱尔兰教育背景，精通全栈开发。
-* 👀 我目前对基于大型语言模型的AI应用和云计算特别感兴趣。
-* 🌱 我正在爱尔兰国家学院攻读云计算硕士学位。
-* 💞️ 欢迎在创新项目上合作。让我们一起把咖啡因变成代码！
+
 
 
 ## 🚀 Tech Journey
