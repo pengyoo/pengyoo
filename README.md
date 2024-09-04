@@ -1,8 +1,15 @@
 # Peng Yu's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pengyoo&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pengyoo&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=pengyoo&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengyoo&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 
 ## Hi there 👋
