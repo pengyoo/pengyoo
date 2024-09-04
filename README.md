@@ -1,4 +1,4 @@
-## Hi there!
+## 👋 Hi there!
 
 * 👋 Hello, I'm Peng Yu. Software Engineer with a dash of Irish education and a sprinkle of full-stack magic.
 * 👀 I'm currently fascinated by AI applications based on large language models and cloud computing.
