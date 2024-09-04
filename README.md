@@ -1,10 +1,10 @@
 ## 👋 Hi There!
 
-💻 A software engineer with a strong foundation in full-stack development, DevOps, and cloud computing. I love tackling complex problems with clean, efficient code.
-🎓 Currently pursuing a Master’s in Cloud Computing at the National College of Ireland, with graduation on the horizon in January 2025.
-🚀 Experienced in building everything from AI-powered recruitment platforms to decentralized web3 apps. My go-to tech stack includes Java, Python, React.js, and AWS, but I’m always eager to explore new tools.
-💡 Passionate about bringing innovative ideas to life. Whether it's improving user experiences or building scalable, reliable systems, I'm all in.
-📸 Outside of coding, you’ll probably find me behind a camera, capturing moments through photography and video production.
+* 💻 A software engineer with a strong foundation in full-stack development, DevOps, and cloud computing. I love tackling complex problems with clean, efficient code.
+* 🎓 Currently pursuing a Master’s in Cloud Computing at the National College of Ireland, with graduation on the horizon in January 2025.
+* 🚀 Experienced in building everything from AI-powered recruitment platforms to decentralized web3 apps. My go-to tech stack includes Java, Python, React.js, and AWS, but I’m always eager to explore new tools.
+* 💡 Passionate about bringing innovative ideas to life. Whether it's improving user experiences or building scalable, reliable systems, I'm all in.
+* 📸 Outside of coding, you’ll probably find me behind a camera, capturing moments through photography and video production.
 
 
 
